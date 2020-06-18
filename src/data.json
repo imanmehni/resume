@@ -1,0 +1,74 @@
+{
+    "title": "HI! I'M IMAN",
+    "subtitle": "Full Stack Developer | Open-Source Enthusiast",
+    "link": {
+        "github": "https://github.com/imanmehni",
+        "stackoverflow": "https://stackoverflow.com/story/imanmehni",
+        "facebook": "https://www.facebook.com/dev.imanmehni",
+        "linked": "#",
+        "instagram": "https://www.instagram.com/iman.mehni/",
+        "youtube": "#"
+    },
+    "sections": [{
+            "title": "About",
+            "items": [{
+                    "content": "I am a 28-year-old Iranian youth"
+                }, {
+                    "content": "That I love learning"
+                },
+                {
+                    "content": "I am very lively and  I can build interesting things. I have achieved everything I have and I am trying to achieve my goals"
+                }
+            ]
+        },
+        {
+            "title": "Skill",
+            "items": [{
+                    "title": "React",
+                    "sub": "Frontend",
+                    "content": {
+                        "image": "img/react.jpg",
+                        "details": "Follow us to learn front end web development"
+                    }
+                },
+                {
+                    "title": "javascript",
+                    "sub": "Frontend",
+                    "content": {
+                        "image": "img/jslogo.jpg",
+                        "details": "Follow us to learn front end web development"
+                    }
+                }, {
+                    "title": "Html",
+                    "sub": "Frontend",
+                    "content": {
+                        "image": "img/htmllogo.jpg",
+                        "details": "Follow us to learn front end web development"
+                    }
+                }, {
+                    "title": "CSS",
+                    "sub": "Frontend",
+                    "content": {
+                        "image": "img/csslogo.jpg",
+                        "details": "Follow us to learn front end web development"
+                    }
+                }, {
+                    "title": "Nodejs",
+                    "sub": "Backend",
+                    "content": {
+                        "image": "img/nodejslogo.png",
+                        "details": "Follow us to learn back end web development"
+                    }
+                }, {
+                    "title": "JQuery",
+                    "sub": "Frontend",
+                    "content": {
+                        "image": "img/jquerylogo.jpg",
+                        "details": "Follow us to learn front end web development"
+                    }
+                }
+            ]
+        }
+    ]
+
+}
